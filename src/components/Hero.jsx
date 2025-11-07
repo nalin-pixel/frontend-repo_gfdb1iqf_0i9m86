@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className="relative h-[60vh] md:h-[70vh] w-full">
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/yQw6tQ9XgEs3-3kT/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/41MGRk-UDPKO-l6W/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
       <div className="relative z-10 h-full flex items-center">
         <div className="max-w-6xl mx-auto px-4">
